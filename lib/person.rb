@@ -4,4 +4,8 @@ class Person
 
 
 end
-  def 
+  def name(name)
+    @name=namee
+  end
+  
+  def name
